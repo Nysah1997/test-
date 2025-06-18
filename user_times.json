@@ -1,0 +1,43 @@
+{
+  "1026195839": {
+    "name": "wero",
+    "total_time": 3651.306533,
+    "sessions": [
+      {
+        "start": "2025-06-18T22:42:30.274854",
+        "end": "2025-06-18T22:43:21.581393",
+        "duration": 51.306533
+      }
+    ],
+    "is_active": false,
+    "is_paused": false,
+    "pause_count": 0,
+    "notified_milestones": [
+      3600
+    ],
+    "milestone_completed": false,
+    "last_start": "2025-06-18T22:42:30.274854",
+    "is_external_user": true,
+    "last_milestone_check": 3651.30563
+  },
+  "1366547765810692156": {
+    "name": "Cyprian.",
+    "total_time": 3710.859996,
+    "sessions": [
+      {
+        "start": "2025-06-18T22:43:33.350061",
+        "end": "2025-06-18T22:45:24.210063",
+        "duration": 110.859996
+      }
+    ],
+    "is_active": false,
+    "is_paused": false,
+    "pause_count": 0,
+    "notified_milestones": [
+      3600
+    ],
+    "milestone_completed": false,
+    "last_start": "2025-06-18T22:43:33.350061",
+    "last_milestone_check": 3710.859358
+  }
+}
